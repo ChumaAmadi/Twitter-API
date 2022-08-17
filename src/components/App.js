@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-
 import Navbar from "./Navbar";
 import TweetFeed from "./TweetFeed";
 import RuleList from "./RuleList";
